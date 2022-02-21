@@ -1,0 +1,79 @@
+html {
+    font-family: Arial;
+}
+
+button {
+    display: inline-block;
+    text-align: center;
+    margin: 10px 10px 25px 10px;
+    background-color: #fff;
+    width: 200px;
+    padding: 10px 10px;
+    font-size: 22px;
+    border-radius: 15px;
+    border: none;
+}
+
+button:hover {
+    transform: scale(0.95, 0.95);
+}
+
+.btnContainer {
+    text-align: center;
+}
+
+.text {
+    border: 2px solid black;
+    margin: 0 auto;
+    width: 300px;
+    font-size: 26px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 15px;
+
+}
+
+.pickName {
+    background-color: rgb(50, 235, 90);
+}
+
+.pickName:hover {
+    background-color: rgb(99, 231, 127);
+}
+
+.add:hover {
+    background-color: rgb(99, 231, 127);
+}
+
+form {
+    display: block;
+    margin: 0 auto;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding: 10px;
+    text-align: center;
+}
+
+.add {
+    width: 50px;
+    font-size: 15px;
+    padding: 5px;
+    background-color: rgb(25, 207, 25);
+    margin: 0px 0px 0px 10px;
+
+}
+
+.addName {
+    text-align: center;
+}
+
+#name {
+    width: 100px;
+    height: 25px;
+    font-size: 15px;
+    text-align: center;
+}
+
+label {
+    font-size: 20px;
+}

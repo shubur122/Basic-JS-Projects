@@ -1,0 +1,35 @@
+html {
+    font-family: arial;
+}
+
+button {
+    display: block;
+    margin: 20px auto 50px;
+    background-color: white;
+    border: 5px solid cadetblue;
+    padding: 20px 50px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+div {
+    margin: 10px auto 10px;
+    font-size: 22px;
+    text-align: center;
+}
+
+input {
+    width: 70px;
+    margin: 20px;
+    margin-left: 0px;
+}
+
+label {
+    margin: 20px;
+    margin-right: 0px;
+}
+
+.codes {
+    text-align: center;
+    white-space: pre-line;
+}
